@@ -23,7 +23,7 @@ O repositório está organizado da seguinte forma (esta seção pode evoluir con
 ## Tecnologias Utilizadas
 
 * [Java SE Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
-* [NetBeans com extensão Java]
+* [NetBeans com extensão Java](https://netbeans.apache.org/front/main/index.html)
 
 
 ## Como Utilizar
